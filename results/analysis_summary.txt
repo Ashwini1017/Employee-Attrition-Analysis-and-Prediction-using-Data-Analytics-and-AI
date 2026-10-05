@@ -1,0 +1,14 @@
+Employee Attrition Analysis - Run Summary
+
+Rows after cleaning: 1000
+Columns: 12
+Attrition rate: 15.60%
+Test accuracy: 59.50%
+
+Main observations:
+- Overtime is associated with a higher attrition rate in this dataset.
+- Job satisfaction and work-life balance are useful indicators to monitor.
+- Employee income, tenure and distance from home can also help explain differences in attrition.
+- The Logistic Regression model provides a simple baseline for predicting attrition.
+
+Note: This is a synthetic educational dataset, so the findings should not be treated as real company statistics.

@@ -1,0 +1,1001 @@
+Age,Department,JobLevel,MonthlyIncome,YearsAtCompany,JobSatisfaction,WorkLifeBalance,OverTime,DistanceFromHomeKm,TrainingHours,NumCompaniesWorked,Attrition
+34,Research & Development,Entry,2976.0,3,2.0,4,No,1.0,57,3,No
+54,Research & Development,Mid,5522.0,4,3.0,1,Yes,15.4,38,2,Yes
+23,Research & Development,Entry,2785.0,4,3.0,4,No,9.8,52,1,No
+39,Research & Development,Entry,4177.0,4,1.0,3,Yes,16.2,14,3,No
+53,Sales,Mid,5387.0,5,1.0,4,No,15.5,16,3,No
+59,Human Resources,Entry,5083.0,6,4.0,3,No,7.1,6,3,No
+31,Research & Development,Senior,5517.0,8,3.0,3,Yes,17.1,52,2,No
+47,Research & Development,Entry,3787.0,3,4.0,1,No,8.0,50,2,No
+29,Sales,Mid,3428.0,4,2.0,3,Yes,8.5,53,1,No
+26,Research & Development,Mid,3498.0,4,2.0,2,No,7.7,30,3,Yes
+35,Research & Development,Mid,4852.0,8,2.0,4,No,21.0,32,0,No
+56,Human Resources,Mid,5597.0,2,3.0,3,No,9.8,38,3,No
+48,Research & Development,Mid,4112.0,6,4.0,1,No,23.0,62,4,Yes
+41,Research & Development,Senior,4769.0,3,3.0,4,Yes,26.3,65,3,Yes
+33,Research & Development,Entry,2316.0,2,2.0,1,No,6.1,52,3,No
+27,Sales,Entry,1800.0,5,4.0,2,No,1.0,45,2,Yes
+32,Research & Development,Mid,3850.0,3,3.0,1,Yes,20.4,60,4,No
+27,Sales,Senior,4052.0,8,2.0,4,No,9.3,36,0,No
+29,Research & Development,Entry,2338.0,2,1.0,1,Yes,5.1,34,1,Yes
+48,Research & Development,Mid,4807.0,4,3.0,4,No,7.3,38,3,No
+27,Research & Development,Senior,4539.0,5,3.0,1,No,8.7,25,7,No
+23,Research & Development,Mid,4045.0,2,4.0,3,Yes,22.4,37,1,No
+43,Human Resources,Senior,6615.0,5,1.0,1,No,13.3,23,4,No
+33,Research & Development,Mid,4045.0,2,1.0,2,Yes,22.3,55,0,Yes
+39,Research & Development,Mid,4245.0,2,4.0,3,No,16.0,48,1,No
+27,Sales,Entry,2343.0,3,3.0,3,No,9.5,61,3,No
+30,Research & Development,Senior,5293.0,5,1.0,4,No,8.9,16,2,No
+39,Sales,Entry,4025.0,3,1.0,4,No,16.5,69,2,Yes
+48,Sales,Mid,4720.0,5,2.0,3,No,18.6,16,1,Yes
+38,Research & Development,Mid,4484.0,2,3.0,2,No,20.0,22,1,No
+43,Research & Development,Mid,3564.0,4,,2,No,9.9,31,1,No
+42,Human Resources,Mid,4938.0,4,2.0,4,Yes,13.4,60,2,No
+32,Research & Development,Mid,4445.0,2,3.0,3,No,16.7,43,3,No
+32,Research & Development,Senior,5068.0,4,4.0,4,Yes,8.9,36,3,Yes
+38,Research & Development,Mid,5641.0,1,2.0,2,No,2.9,28,1,No
+23,Sales,Mid,2612.0,4,2.0,2,No,5.5,19,0,Yes
+48,Sales,Entry,4551.0,3,2.0,4,No,10.1,57,3,No
+45,Research & Development,Mid,5032.0,14,1.0,3,No,17.3,52,1,No
+33,Sales,Mid,3970.0,10,1.0,1,No,22.1,60,2,No
+36,Research & Development,Entry,3316.0,5,4.0,3,Yes,1.2,46,0,No
+34,Research & Development,Entry,3290.0,3,1.0,1,No,7.2,5,2,No
+47,Research & Development,Mid,5776.0,4,4.0,4,No,9.1,21,2,No
+51,Research & Development,Mid,6461.0,3,1.0,1,No,18.4,47,1,No
+26,Research & Development,Mid,3439.0,3,3.0,4,Yes,7.8,34,2,No
+38,Research & Development,Entry,4090.0,4,4.0,4,No,8.6,32,1,No
+22,Research & Development,Entry,1800.0,1,3.0,1,Yes,1.0,23,3,Yes
+39,Research & Development,Entry,4143.0,10,3.0,3,No,15.9,54,5,No
+31,Sales,Mid,3370.0,4,2.0,1,Yes,10.7,47,4,No
+35,Research & Development,Senior,6214.0,6,3.0,2,Yes,6.8,48,2,No
+39,Sales,Entry,5082.0,3,3.0,2,Yes,9.9,30,1,Yes
+34,Sales,Mid,4041.0,1,2.0,3,No,21.0,43,2,No
+37,Sales,Entry,2050.0,6,1.0,4,No,,20,1,No
+51,Research & Development,Entry,4309.0,2,4.0,2,No,5.3,38,1,No
+53,Research & Development,Entry,5636.0,1,1.0,2,No,22.0,5,2,No
+22,Research & Development,Entry,,6,4.0,1,No,12.6,16,1,No
+36,Research & Development,Mid,4452.0,2,4.0,4,Yes,17.4,35,0,No
+55,Research & Development,Senior,7861.0,6,1.0,2,Yes,15.2,76,1,Yes
+42,Research & Development,Entry,4215.0,2,3.0,2,No,11.7,13,0,No
+30,Sales,Mid,4572.0,5,3.0,1,No,9.2,21,5,No
+45,Sales,Mid,5653.0,4,1.0,2,No,18.7,43,4,No
+27,Research & Development,Senior,5814.0,2,4.0,3,Yes,21.3,67,4,No
+22,Research & Development,Mid,3333.0,8,1.0,4,No,20.7,43,1,No
+46,Research & Development,Entry,4828.0,3,1.0,2,Yes,2.5,51,1,No
+42,Research & Development,Mid,4600.0,4,4.0,3,No,22.4,35,2,No
+51,Research & Development,Entry,4274.0,3,3.0,4,Yes,9.1,32,2,Yes
+35,Research & Development,Senior,6614.0,5,1.0,2,No,6.0,41,1,No
+55,Research & Development,Entry,5146.0,4,1.0,2,No,10.6,30,3,No
+38,Research & Development,Mid,4983.0,3,2.0,1,No,18.6,51,2,No
+50,Sales,Entry,4660.0,2,1.0,4,Yes,16.3,16,3,No
+25,Research & Development,Mid,2974.0,5,1.0,1,No,10.0,53,0,No
+25,Sales,Senior,4662.0,6,3.0,1,Yes,18.7,41,0,No
+52,Research & Development,Mid,6583.0,5,1.0,1,No,13.1,37,2,No
+54,Research & Development,Mid,6181.0,3,2.0,3,Yes,7.4,15,2,Yes
+58,Sales,Senior,6348.0,8,2.0,2,Yes,6.3,25,0,No
+34,Sales,Senior,5280.0,5,4.0,3,No,15.3,58,1,No
+22,Sales,Entry,3358.0,5,4.0,3,Yes,11.3,37,1,Yes
+60,Sales,Mid,6191.0,4,4.0,1,Yes,1.0,44,2,No
+45,Research & Development,Mid,3885.0,4,2.0,2,No,18.8,27,3,No
+31,Research & Development,Mid,5095.0,4,3.0,1,No,8.2,40,4,No
+51,Research & Development,Entry,5109.0,1,3.0,1,No,24.7,19,1,No
+57,Research & Development,Entry,5129.0,3,4.0,2,No,1.0,41,1,No
+33,Research & Development,Senior,5094.0,2,3.0,2,No,10.6,46,1,No
+52,Research & Development,Senior,7654.0,6,4.0,1,No,,45,1,No
+52,Sales,Senior,6598.0,5,3.0,2,Yes,4.2,26,4,No
+41,Sales,Senior,6761.0,3,4.0,2,No,8.1,35,1,No
+46,Sales,Mid,5492.0,2,3.0,4,Yes,26.2,48,4,Yes
+32,Research & Development,Mid,4109.0,3,3.0,3,No,13.1,37,2,Yes
+58,Research & Development,Mid,6255.0,2,3.0,2,No,5.7,36,1,No
+60,Sales,Mid,6216.0,1,2.0,2,No,1.0,69,3,No
+60,Research & Development,Mid,7010.0,3,3.0,1,No,1.0,26,1,No
+50,Sales,Entry,4018.0,4,2.0,2,Yes,7.7,56,1,No
+23,Research & Development,Mid,2131.0,6,3.0,3,No,6.9,23,4,No
+36,Research & Development,Entry,3789.0,2,2.0,1,No,10.2,50,1,No
+39,Research & Development,Entry,4055.0,2,4.0,4,No,1.0,51,2,No
+59,Research & Development,Mid,6557.0,4,3.0,3,No,11.3,32,1,No
+43,Research & Development,Mid,5150.0,3,3.0,4,Yes,20.2,22,0,No
+42,Research & Development,Entry,3692.0,3,1.0,2,No,25.0,10,2,No
+27,Sales,Mid,4037.0,3,4.0,4,No,1.0,31,4,No
+52,Sales,Senior,6920.0,2,4.0,2,Yes,5.6,48,1,No
+35,Human Resources,Entry,2988.0,3,1.0,4,No,5.2,24,2,No
+25,Human Resources,Entry,2252.0,9,2.0,3,No,13.2,41,3,No
+60,Research & Development,Entry,6743.0,3,3.0,3,No,2.2,18,3,No
+29,Sales,Mid,2567.0,5,4.0,1,No,25.5,36,0,No
+22,Human Resources,Senior,4725.0,4,3.0,4,No,12.3,23,4,Yes
+25,Research & Development,Entry,1800.0,8,2.0,1,No,11.0,39,1,No
+39,Research & Development,Mid,4475.0,7,2.0,1,No,24.7,32,3,No
+26,Research & Development,Entry,2258.0,5,4.0,2,No,11.9,22,2,No
+54,Sales,Entry,3565.0,3,4.0,4,Yes,15.2,30,0,Yes
+41,Sales,Senior,6268.0,4,,4,Yes,6.0,26,2,No
+34,Human Resources,Entry,2973.0,4,2.0,4,No,1.0,20,2,Yes
+22,Research & Development,Entry,1800.0,4,2.0,3,Yes,7.1,56,1,No
+40,Sales,Mid,5176.0,3,1.0,4,Yes,29.5,35,5,No
+27,Research & Development,Mid,4458.0,4,4.0,2,No,17.1,7,2,No
+60,Research & Development,Senior,8599.0,6,4.0,2,No,14.2,31,3,No
+33,Sales,Senior,5568.0,9,1.0,1,Yes,4.2,54,2,Yes
+40,Research & Development,Entry,3760.0,9,1.0,4,No,19.3,29,3,No
+22,Research & Development,Entry,3063.0,7,3.0,2,No,1.1,62,3,No
+27,Research & Development,Mid,4619.0,1,2.0,1,No,1.0,27,4,No
+30,Research & Development,Entry,3617.0,6,2.0,2,No,7.5,48,2,No
+24,Research & Development,Senior,3958.0,3,2.0,3,No,27.6,56,2,No
+50,Research & Development,Mid,5611.0,4,3.0,2,Yes,27.2,47,2,Yes
+58,Research & Development,Entry,5546.0,3,4.0,2,No,8.4,19,3,No
+60,Sales,Senior,6454.0,3,4.0,2,No,6.6,26,2,No
+32,Research & Development,Entry,3355.0,5,2.0,3,No,1.0,58,1,No
+52,Sales,Mid,7127.0,1,4.0,3,No,12.6,28,0,No
+41,Research & Development,Mid,5131.0,8,3.0,3,No,13.3,55,3,No
+23,Research & Development,Mid,4143.0,6,1.0,1,Yes,18.3,34,3,No
+25,Sales,Mid,3474.0,3,4.0,2,No,19.3,42,2,No
+43,Sales,Mid,4837.0,2,2.0,3,No,10.4,19,4,No
+38,Research & Development,Senior,6008.0,5,3.0,1,Yes,16.4,31,1,Yes
+22,Sales,Senior,3870.0,2,3.0,1,No,6.4,27,2,No
+58,Human Resources,Mid,5534.0,2,4.0,2,No,16.3,43,1,Yes
+50,Research & Development,Entry,5403.0,4,4.0,3,No,7.9,41,1,No
+41,Research & Development,Mid,5607.0,4,4.0,3,No,15.7,47,2,No
+60,Research & Development,Senior,6986.0,2,3.0,1,No,15.0,33,3,No
+59,Sales,Entry,5974.0,4,2.0,3,Yes,12.6,26,4,No
+59,Human Resources,Mid,6188.0,0,2.0,1,No,18.4,43,1,No
+32,Research & Development,Mid,4171.0,2,4.0,3,Yes,1.0,25,0,Yes
+56,Research & Development,Entry,5389.0,4,1.0,3,No,3.5,56,1,No
+41,Sales,Mid,5361.0,3,3.0,1,No,9.8,38,3,No
+50,Research & Development,Entry,4634.0,1,3.0,2,No,1.0,35,0,No
+55,Research & Development,Mid,6822.0,8,1.0,4,No,8.7,47,2,Yes
+28,Human Resources,Senior,5111.0,2,3.0,2,Yes,9.0,39,2,No
+39,Research & Development,Senior,6251.0,3,2.0,3,No,22.5,15,3,No
+27,Research & Development,Mid,2983.0,3,2.0,3,No,13.1,24,1,No
+32,Sales,Entry,4453.0,1,3.0,1,No,20.2,56,2,No
+38,Research & Development,Mid,4765.0,8,1.0,4,Yes,14.4,41,2,No
+55,Research & Development,Mid,6368.0,8,1.0,2,No,7.7,15,3,No
+55,Research & Development,Mid,4860.0,4,2.0,4,No,13.1,45,3,Yes
+37,Sales,Senior,5140.0,4,3.0,2,No,17.8,32,3,No
+34,Research & Development,Entry,4025.0,4,1.0,3,No,21.5,27,3,No
+42,Research & Development,Senior,6286.0,1,2.0,2,Yes,10.9,23,3,No
+57,Sales,Entry,3931.0,7,2.0,4,No,1.0,55,1,No
+60,Research & Development,Entry,6105.0,3,3.0,1,No,1.0,11,2,Yes
+30,Sales,Mid,3427.0,4,2.0,4,No,9.4,27,2,No
+29,Research & Development,Entry,3712.0,4,1.0,1,No,1.0,42,1,No
+49,Sales,Entry,4438.0,8,3.0,4,Yes,26.4,64,0,No
+33,Research & Development,Entry,3268.0,2,4.0,1,No,16.8,48,0,No
+29,Research & Development,Mid,4461.0,5,3.0,1,Yes,6.9,27,2,No
+23,Research & Development,Mid,2602.0,3,2.0,1,No,3.1,63,1,No
+37,Sales,Entry,2830.0,1,2.0,3,No,20.2,20,1,No
+37,Human Resources,Mid,4247.0,2,1.0,2,No,3.1,44,0,No
+43,Sales,Senior,6723.0,8,1.0,3,No,3.9,47,0,No
+29,Sales,Entry,1930.0,2,2.0,4,No,5.9,27,3,No
+49,Research & Development,Entry,3411.0,6,3.0,1,Yes,12.9,50,3,Yes
+48,Research & Development,Senior,7145.0,5,2.0,3,No,17.0,32,6,No
+40,Research & Development,Senior,5538.0,3,4.0,3,No,21.5,50,1,No
+29,Research & Development,Mid,3440.0,2,3.0,2,No,20.4,12,1,No
+41,Research & Development,Mid,3508.0,3,1.0,4,No,12.0,45,1,No
+48,Human Resources,Entry,3969.0,2,3.0,3,Yes,20.2,34,0,No
+36,Sales,Entry,3385.0,5,3.0,1,No,6.6,57,2,No
+32,Research & Development,Mid,4555.0,3,1.0,3,No,1.0,39,4,No
+41,Sales,Entry,3314.0,5,2.0,2,No,6.6,59,0,No
+35,Human Resources,Mid,5282.0,5,4.0,1,No,5.5,48,2,No
+37,Sales,Mid,3930.0,6,2.0,4,No,6.9,38,2,No
+35,Sales,Mid,3761.0,2,2.0,1,Yes,4.3,52,1,No
+33,Research & Development,Mid,5034.0,3,1.0,1,No,8.3,52,0,No
+49,Human Resources,Entry,4632.0,0,1.0,1,No,17.0,47,5,No
+39,Research & Development,Entry,3286.0,0,2.0,4,Yes,25.7,6,1,No
+40,Research & Development,Entry,3629.0,3,4.0,3,Yes,1.0,25,3,No
+47,Research & Development,Mid,6104.0,3,4.0,4,No,1.7,61,0,No
+36,Research & Development,Entry,4343.0,2,3.0,2,No,5.7,21,4,No
+25,Research & Development,Entry,1924.0,7,4.0,1,Yes,18.1,53,3,Yes
+55,Research & Development,Entry,4977.0,2,3.0,2,Yes,10.4,51,2,No
+24,Research & Development,Entry,2429.0,4,3.0,1,No,6.2,29,0,No
+44,Research & Development,Senior,5629.0,3,2.0,3,Yes,17.7,10,1,No
+32,Research & Development,Entry,3014.0,6,1.0,2,No,19.7,31,4,No
+30,Sales,Senior,5083.0,3,2.0,4,Yes,11.8,71,1,No
+23,Research & Development,Entry,3026.0,4,4.0,2,No,5.5,27,1,No
+57,Sales,Mid,6860.0,5,3.0,2,No,14.2,28,0,Yes
+38,Human Resources,Mid,4246.0,2,4.0,4,No,10.1,25,0,No
+35,Sales,Entry,3166.0,7,1.0,3,No,10.1,58,0,No
+50,Sales,Senior,7212.0,4,1.0,1,Yes,7.9,36,5,No
+23,Research & Development,Senior,4105.0,5,2.0,2,Yes,19.4,31,4,No
+44,Sales,Senior,6653.0,5,2.0,2,Yes,14.0,61,3,No
+41,Sales,Entry,3758.0,1,4.0,3,Yes,20.3,49,3,No
+43,Research & Development,Entry,3355.0,3,2.0,3,No,22.7,26,0,No
+26,Research & Development,Mid,2818.0,4,3.0,3,Yes,15.7,22,1,Yes
+59,Sales,Entry,6286.0,3,3.0,4,No,7.9,57,1,Yes
+31,Research & Development,Mid,3763.0,4,2.0,3,Yes,20.3,40,2,No
+48,Research & Development,Mid,6376.0,4,4.0,2,No,15.7,17,2,No
+51,Human Resources,Mid,5231.0,6,1.0,1,No,32.8,13,0,No
+35,Research & Development,Senior,5694.0,3,1.0,3,No,14.5,23,2,No
+27,Sales,Mid,5080.0,4,3.0,2,No,17.6,21,3,Yes
+33,Sales,Entry,2448.0,2,3.0,2,No,14.3,9,4,No
+53,Sales,Entry,3601.0,4,2.0,4,No,11.2,24,1,Yes
+57,Sales,Mid,6911.0,2,4.0,4,No,9.9,26,0,No
+58,Research & Development,Mid,5623.0,0,1.0,2,No,14.4,33,2,No
+30,Sales,Entry,2867.0,5,2.0,3,Yes,16.2,65,2,Yes
+45,Research & Development,Mid,4674.0,5,1.0,4,No,21.2,36,2,No
+27,Research & Development,Mid,3699.0,3,1.0,1,Yes,14.5,37,3,No
+49,Research & Development,Senior,6077.0,4,3.0,2,Yes,8.3,48,0,No
+38,Sales,Mid,4343.0,3,3.0,3,No,9.4,36,0,Yes
+49,Research & Development,Entry,4787.0,4,3.0,2,Yes,1.4,46,2,No
+48,Research & Development,Entry,3755.0,8,4.0,4,No,25.3,44,3,No
+60,Research & Development,Mid,5875.0,4,1.0,2,No,7.7,42,1,No
+41,Sales,Entry,3589.0,3,3.0,1,No,19.7,81,1,No
+35,Sales,Mid,3276.0,7,1.0,2,No,14.2,54,0,Yes
+42,Human Resources,Mid,4525.0,6,4.0,2,No,,24,0,No
+28,Research & Development,Entry,2787.0,3,3.0,4,No,11.1,46,3,No
+26,Research & Development,Entry,2280.0,4,4.0,1,Yes,5.7,28,1,No
+42,Research & Development,Entry,3724.0,4,3.0,1,Yes,4.3,47,3,No
+54,Research & Development,Senior,7107.0,3,2.0,1,No,25.8,19,2,No
+42,Human Resources,Mid,4374.0,2,3.0,3,No,12.9,23,2,No
+52,Sales,Entry,5199.0,3,4.0,4,No,21.0,45,3,No
+28,Human Resources,Senior,5843.0,0,1.0,3,No,23.1,55,3,No
+39,Sales,Mid,4243.0,2,4.0,4,No,8.7,48,2,No
+45,Research & Development,Mid,5370.0,7,3.0,4,Yes,15.4,53,4,No
+35,Research & Development,Senior,5349.0,4,1.0,3,Yes,12.4,46,2,Yes
+22,Sales,Entry,2438.0,5,4.0,3,No,2.7,43,2,No
+24,Sales,Entry,3388.0,5,1.0,1,Yes,10.5,32,1,Yes
+58,Research & Development,Mid,6491.0,2,3.0,4,Yes,16.7,52,3,No
+45,Human Resources,Entry,3002.0,3,1.0,4,No,8.0,55,2,No
+32,Research & Development,Mid,4245.0,1,1.0,4,No,9.4,39,0,No
+32,Human Resources,Entry,3851.0,6,3.0,4,No,10.6,38,2,No
+23,Research & Development,Entry,2141.0,5,3.0,2,No,28.9,64,0,No
+58,Research & Development,Entry,5907.0,6,3.0,1,No,1.0,40,2,No
+26,Research & Development,Mid,2991.0,5,2.0,4,No,16.0,41,3,No
+51,Sales,Entry,3699.0,2,4.0,2,No,10.0,47,1,No
+31,Sales,Entry,3057.0,3,1.0,4,No,6.9,39,1,Yes
+35,Research & Development,Senior,4363.0,5,4.0,3,No,9.8,28,1,Yes
+32,Research & Development,Entry,2894.0,3,2.0,2,No,17.3,46,1,No
+54,Sales,Entry,5756.0,2,3.0,2,No,17.8,39,2,No
+23,Research & Development,Entry,1800.0,4,4.0,3,Yes,13.5,68,2,No
+35,Research & Development,Entry,2473.0,5,2.0,2,No,20.7,52,1,No
+32,Research & Development,Entry,2379.0,2,2.0,2,No,22.2,31,1,No
+32,Research & Development,Mid,3909.0,4,4.0,1,No,18.5,51,2,Yes
+29,Research & Development,Entry,2557.0,1,4.0,3,Yes,7.6,45,3,No
+57,Research & Development,Senior,8284.0,4,1.0,1,No,16.0,60,2,No
+36,Research & Development,Senior,6210.0,7,3.0,1,No,16.0,32,3,No
+38,Research & Development,Entry,3882.0,6,2.0,1,No,5.5,43,1,Yes
+37,Research & Development,Entry,3570.0,5,3.0,3,No,1.0,39,5,No
+60,Research & Development,Entry,5686.0,0,2.0,1,Yes,1.0,41,5,No
+35,Sales,Mid,3645.0,1,1.0,2,Yes,12.6,27,0,No
+35,Sales,Entry,3862.0,2,4.0,1,No,14.4,49,1,No
+34,Research & Development,Senior,4697.0,8,3.0,3,Yes,2.5,46,1,No
+34,Research & Development,Mid,4663.0,4,2.0,1,No,20.4,59,6,No
+25,Sales,Mid,4126.0,3,1.0,1,No,13.2,40,2,No
+45,Sales,Mid,5192.0,5,1.0,2,No,22.8,34,2,No
+22,Research & Development,Senior,4285.0,2,2.0,3,No,15.0,52,0,No
+30,Sales,Entry,3140.0,6,3.0,1,Yes,3.5,28,2,No
+29,Research & Development,Mid,1835.0,3,2.0,2,No,15.7,56,1,Yes
+33,Research & Development,Entry,3331.0,5,3.0,4,No,17.4,56,1,No
+51,Sales,Senior,6791.0,4,2.0,3,Yes,7.6,59,1,No
+45,Human Resources,Mid,5022.0,7,1.0,4,No,1.0,46,5,No
+60,Sales,Mid,6789.0,2,3.0,2,No,12.8,33,0,No
+35,Sales,Entry,3256.0,2,1.0,4,No,4.0,42,1,Yes
+58,Sales,Senior,6719.0,4,1.0,1,No,21.0,46,2,No
+23,Sales,Mid,3093.0,2,1.0,3,No,8.7,32,2,No
+41,Sales,Mid,4759.0,4,2.0,2,Yes,25.8,60,2,No
+53,Sales,Senior,7110.0,4,3.0,1,Yes,1.0,49,0,No
+42,Sales,Entry,4005.0,5,4.0,4,No,13.1,27,0,No
+58,Sales,Entry,5936.0,2,1.0,3,No,23.4,68,0,No
+34,Research & Development,Mid,3414.0,5,1.0,1,No,4.9,41,0,No
+23,Research & Development,Entry,2399.0,4,1.0,1,Yes,10.7,24,1,No
+52,Research & Development,Entry,5588.0,4,2.0,3,No,8.8,28,7,Yes
+24,Research & Development,Entry,1800.0,6,1.0,3,No,6.5,62,2,No
+51,Research & Development,Entry,4782.0,4,2.0,1,Yes,14.0,67,0,No
+50,Research & Development,Senior,6400.0,5,4.0,4,No,1.6,55,1,No
+54,Research & Development,Mid,5579.0,5,2.0,3,No,11.1,60,1,No
+40,Sales,Entry,3142.0,2,3.0,2,Yes,16.1,58,2,No
+56,Sales,Mid,5880.0,8,3.0,1,No,10.3,48,1,No
+28,Sales,Mid,4807.0,2,1.0,2,Yes,4.0,45,2,No
+38,Sales,Mid,3638.0,4,1.0,2,No,20.2,48,0,No
+26,Research & Development,Senior,3980.0,6,2.0,1,Yes,17.8,51,1,No
+51,Research & Development,Senior,6019.0,4,2.0,2,Yes,3.7,29,3,No
+49,Sales,Entry,5618.0,4,1.0,1,Yes,1.6,51,3,No
+53,Research & Development,Entry,4534.0,7,3.0,1,Yes,4.4,62,1,No
+51,Research & Development,Mid,5548.0,4,2.0,1,Yes,16.4,37,0,No
+34,Sales,Mid,3858.0,3,2.0,2,No,14.2,35,2,Yes
+24,Research & Development,Mid,2656.0,3,3.0,2,Yes,18.3,47,6,No
+58,Sales,Mid,6007.0,2,4.0,2,No,,30,0,No
+41,Human Resources,Mid,6313.0,3,4.0,3,Yes,4.6,20,1,No
+25,Sales,Entry,3360.0,5,4.0,3,No,19.4,57,2,No
+58,Research & Development,Entry,4706.0,4,2.0,1,Yes,7.6,33,1,No
+60,Human Resources,Entry,5851.0,3,1.0,4,No,13.5,40,2,No
+39,Human Resources,Entry,3105.0,2,1.0,3,No,1.0,31,1,No
+52,Research & Development,Entry,3595.0,5,2.0,2,No,7.4,59,1,No
+23,Research & Development,Mid,3848.0,4,2.0,1,Yes,20.1,53,2,No
+25,Research & Development,Entry,3209.0,2,1.0,4,No,6.3,36,2,Yes
+32,Research & Development,Entry,3730.0,5,1.0,3,No,18.5,22,2,No
+47,Sales,Mid,4920.0,3,1.0,2,Yes,1.0,35,1,No
+27,Research & Development,Mid,3417.0,5,3.0,1,No,7.5,49,4,No
+23,Research & Development,Entry,2772.0,7,2.0,1,No,10.6,43,3,No
+48,Research & Development,Senior,6864.0,1,1.0,2,No,25.9,42,4,Yes
+52,Research & Development,Senior,6694.0,3,3.0,1,No,2.6,43,3,No
+50,Research & Development,Mid,4428.0,5,4.0,1,No,17.4,51,1,No
+53,Research & Development,Mid,5809.0,3,2.0,2,Yes,20.5,39,1,No
+53,Sales,Entry,5536.0,5,2.0,1,No,6.2,47,2,No
+45,Sales,Senior,5577.0,4,2.0,2,Yes,9.0,25,2,No
+42,Research & Development,Entry,4315.0,3,2.0,4,Yes,13.1,78,1,No
+55,Research & Development,Senior,7421.0,2,2.0,4,Yes,1.0,36,2,No
+35,Sales,Mid,4693.0,4,,1,No,8.4,43,1,Yes
+25,Research & Development,Entry,3022.0,3,4.0,3,No,22.2,48,1,No
+51,Research & Development,Entry,4214.0,5,2.0,4,No,16.2,34,3,No
+32,Research & Development,Mid,2899.0,4,4.0,3,No,10.7,40,2,No
+60,Research & Development,Mid,5983.0,3,4.0,2,No,12.9,40,1,No
+38,Research & Development,Entry,4138.0,5,1.0,2,No,16.6,26,2,No
+55,Sales,Mid,5553.0,8,2.0,1,No,18.2,47,2,No
+23,Human Resources,Senior,4034.0,1,3.0,2,Yes,7.5,15,0,Yes
+47,Human Resources,Mid,4041.0,3,2.0,4,No,,66,0,No
+39,Research & Development,Mid,5684.0,6,2.0,3,No,22.5,52,2,Yes
+40,Research & Development,Entry,4267.0,4,2.0,2,No,17.4,50,4,No
+32,Research & Development,Mid,4450.0,5,3.0,1,No,5.3,14,1,No
+59,Research & Development,Entry,5974.0,5,2.0,4,No,3.8,28,2,No
+37,Research & Development,Senior,6050.0,4,3.0,1,Yes,9.4,61,1,No
+55,Research & Development,Entry,4846.0,1,1.0,3,No,12.5,100,3,No
+38,Research & Development,Mid,4354.0,8,4.0,2,No,1.0,58,2,No
+23,Research & Development,Entry,2007.0,3,1.0,2,No,16.0,56,1,No
+56,Sales,Entry,6803.0,2,1.0,1,Yes,22.3,48,0,Yes
+29,Research & Development,Mid,4056.0,0,1.0,2,Yes,16.6,27,3,Yes
+32,Sales,Mid,3649.0,6,2.0,3,No,6.6,55,1,No
+55,Research & Development,Mid,6208.0,5,3.0,2,No,5.6,23,1,No
+56,Research & Development,Senior,6633.0,4,4.0,1,No,14.4,22,3,No
+57,Sales,Senior,8353.0,1,2.0,2,No,10.8,21,3,No
+38,Research & Development,Senior,5330.0,1,1.0,1,Yes,15.5,55,2,No
+51,Sales,Entry,4991.0,4,2.0,2,Yes,16.8,39,3,No
+34,Research & Development,Mid,4813.0,3,1.0,4,No,20.7,42,1,Yes
+50,Sales,Senior,7030.0,5,2.0,4,Yes,2.9,40,1,No
+41,Human Resources,Entry,3876.0,7,3.0,4,No,13.8,23,1,No
+24,Sales,Entry,2377.0,2,1.0,1,No,9.1,30,3,No
+38,Human Resources,Mid,4423.0,1,4.0,2,No,11.2,31,2,No
+40,Research & Development,Mid,4255.0,2,1.0,1,No,18.9,19,3,No
+32,Research & Development,Mid,3658.0,2,3.0,2,Yes,19.8,32,1,No
+36,Research & Development,Senior,6552.0,5,4.0,3,Yes,23.2,24,2,Yes
+41,Research & Development,Mid,4644.0,2,4.0,4,No,15.4,49,0,No
+23,Human Resources,Mid,2674.0,2,3.0,2,No,11.1,50,3,No
+27,Sales,Entry,2289.0,3,3.0,1,Yes,10.0,21,1,Yes
+51,Research & Development,Mid,6280.0,4,1.0,2,Yes,1.0,36,1,No
+35,Sales,Entry,3744.0,4,1.0,2,Yes,22.7,68,2,Yes
+45,Research & Development,Mid,5419.0,3,2.0,3,No,9.4,25,4,No
+44,Sales,Senior,6103.0,4,3.0,1,No,16.0,46,0,No
+43,Research & Development,Entry,4358.0,2,3.0,3,No,17.4,42,4,Yes
+38,Research & Development,Entry,3142.0,2,4.0,2,No,2.0,56,1,No
+40,Research & Development,Senior,5761.0,6,2.0,3,Yes,4.6,44,2,Yes
+54,Research & Development,Entry,5550.0,5,4.0,4,No,24.4,34,4,No
+59,Research & Development,Mid,6813.0,10,2.0,1,Yes,14.3,41,3,No
+32,Research & Development,Mid,3312.0,6,1.0,4,No,7.4,41,2,No
+48,Research & Development,Mid,4754.0,2,3.0,1,Yes,,39,4,No
+59,Research & Development,Entry,5416.0,4,1.0,4,No,20.7,20,1,No
+22,Human Resources,Mid,4222.0,6,2.0,2,Yes,19.5,59,2,No
+52,Sales,Entry,3505.0,4,4.0,3,No,1.0,56,2,No
+41,Sales,Mid,4896.0,0,4.0,4,Yes,25.1,24,3,No
+59,Sales,Entry,4451.0,4,2.0,3,No,19.7,35,0,No
+44,Research & Development,Mid,4558.0,4,1.0,2,Yes,10.8,37,1,Yes
+54,Research & Development,Mid,5583.0,1,1.0,4,No,2.5,23,1,No
+28,Research & Development,Entry,2437.0,3,1.0,2,No,20.4,12,0,No
+27,Research & Development,Entry,2278.0,3,4.0,3,Yes,15.8,30,2,Yes
+58,Research & Development,Entry,5265.0,4,4.0,3,Yes,1.0,35,5,No
+42,Research & Development,Entry,3552.0,4,3.0,2,No,10.1,18,0,No
+43,Research & Development,Entry,3034.0,6,3.0,1,No,37.0,43,1,No
+28,Sales,Senior,5417.0,3,2.0,2,No,12.1,57,5,No
+30,Research & Development,Mid,4269.0,9,1.0,4,Yes,6.1,53,2,No
+53,Research & Development,Mid,6283.0,5,1.0,3,No,3.9,38,2,No
+33,Sales,Senior,4334.0,7,3.0,3,Yes,26.2,12,2,Yes
+44,Sales,Entry,4264.0,2,1.0,2,Yes,18.8,51,2,No
+34,Human Resources,Mid,4559.0,5,1.0,3,No,23.3,42,2,No
+32,Research & Development,Senior,4580.0,5,4.0,2,No,14.0,46,0,No
+28,Research & Development,Mid,3616.0,2,3.0,1,Yes,22.0,69,2,Yes
+58,Research & Development,Mid,6084.0,6,2.0,1,No,5.2,28,2,No
+58,Research & Development,Mid,7357.0,4,1.0,2,No,13.3,5,1,No
+26,Human Resources,Entry,3791.0,3,1.0,3,No,14.3,24,2,No
+35,Research & Development,Mid,3123.0,4,2.0,2,Yes,23.1,47,1,No
+43,Research & Development,Senior,7806.0,4,2.0,1,No,14.6,40,1,No
+36,Research & Development,Senior,4995.0,2,3.0,2,No,7.0,22,3,No
+50,Human Resources,Entry,5217.0,4,1.0,2,No,12.5,19,3,No
+32,Research & Development,Mid,4581.0,1,1.0,3,Yes,1.0,35,3,No
+24,Human Resources,Entry,1800.0,9,1.0,2,No,1.0,21,4,No
+35,Sales,Senior,5826.0,3,2.0,2,No,18.7,48,1,No
+45,Research & Development,Entry,4085.0,3,2.0,1,No,9.0,34,3,No
+29,Research & Development,Senior,5355.0,7,1.0,3,No,9.9,31,0,No
+53,Sales,Senior,7185.0,0,3.0,4,No,18.6,29,1,Yes
+22,Research & Development,Entry,2978.0,5,2.0,3,No,23.2,44,0,No
+24,Research & Development,Entry,2419.0,2,1.0,2,No,16.3,41,2,No
+41,Sales,Senior,5906.0,2,3.0,2,Yes,27.4,43,2,No
+41,Research & Development,Entry,4527.0,4,2.0,2,Yes,16.0,43,1,No
+33,Research & Development,Mid,4412.0,3,2.0,1,No,14.4,39,1,No
+32,Sales,Senior,5726.0,3,2.0,1,No,13.9,25,1,No
+24,Research & Development,Mid,2838.0,4,1.0,4,No,1.7,29,1,No
+47,Research & Development,Entry,3646.0,0,2.0,4,No,19.6,34,1,No
+36,Research & Development,Mid,3921.0,5,3.0,4,No,1.0,71,0,Yes
+26,Human Resources,Entry,2136.0,4,1.0,3,No,7.3,20,2,No
+37,Research & Development,Senior,6186.0,5,3.0,4,No,12.2,34,1,No
+58,Sales,Entry,5894.0,3,,2,No,5.7,41,1,No
+32,Human Resources,Entry,2949.0,4,3.0,2,Yes,8.4,35,2,No
+56,Research & Development,Entry,6020.0,4,1.0,1,No,26.7,56,1,No
+32,Sales,Senior,6140.0,3,1.0,1,No,20.8,35,3,No
+29,Research & Development,Entry,2953.0,2,2.0,3,Yes,6.5,36,2,No
+32,Sales,Senior,4716.0,4,3.0,1,No,8.2,52,0,No
+34,Human Resources,Mid,5144.0,5,3.0,4,No,1.8,67,1,No
+26,Research & Development,Senior,4700.0,6,2.0,4,No,17.6,61,5,Yes
+44,Research & Development,Senior,6352.0,1,1.0,2,No,10.0,38,0,No
+35,Sales,Senior,5284.0,7,2.0,3,Yes,1.0,39,3,Yes
+50,Research & Development,Senior,6202.0,3,4.0,1,No,12.8,41,4,No
+41,Sales,Entry,2860.0,4,1.0,2,Yes,15.5,42,4,No
+39,Sales,Mid,4956.0,4,3.0,1,No,19.7,27,4,Yes
+40,Sales,Mid,4121.0,1,2.0,1,No,11.4,54,1,No
+28,Research & Development,Mid,5599.0,4,1.0,1,Yes,9.0,43,3,No
+49,Sales,Senior,5989.0,2,3.0,4,Yes,27.9,39,3,No
+26,Human Resources,Senior,3923.0,3,1.0,3,No,12.1,21,1,No
+50,Research & Development,Mid,5812.0,9,2.0,4,No,17.8,41,2,Yes
+60,Sales,Mid,7324.0,5,1.0,4,Yes,7.7,12,2,No
+51,Sales,Mid,5607.0,1,3.0,4,No,17.5,31,2,No
+39,Sales,Entry,4017.0,7,1.0,4,No,1.0,32,2,No
+34,Research & Development,Entry,2022.0,4,1.0,1,Yes,8.3,44,3,Yes
+56,Research & Development,Entry,4650.0,3,3.0,4,No,2.3,68,2,No
+32,Sales,Entry,2352.0,5,4.0,3,No,7.2,49,4,No
+40,Research & Development,Entry,2498.0,3,1.0,1,Yes,22.0,62,3,No
+52,Sales,Mid,5726.0,3,2.0,1,No,7.1,50,1,No
+57,Research & Development,Mid,4617.0,4,4.0,4,No,17.7,57,2,No
+57,Human Resources,Senior,6516.0,3,2.0,4,No,24.1,68,2,No
+25,Research & Development,Mid,3006.0,3,2.0,2,Yes,11.8,29,0,No
+57,Research & Development,Entry,4635.0,2,4.0,1,No,20.0,28,1,No
+26,Research & Development,Entry,2798.0,6,3.0,2,No,16.2,50,3,No
+44,Sales,Entry,4269.0,5,2.0,1,No,12.9,40,2,No
+58,Sales,Senior,8041.0,4,4.0,3,Yes,18.0,43,0,Yes
+47,Sales,Entry,4814.0,2,3.0,2,No,26.7,36,3,Yes
+58,Research & Development,Mid,6902.0,2,3.0,1,No,6.9,31,5,No
+35,Research & Development,Senior,5504.0,7,2.0,4,No,4.3,64,5,No
+34,Research & Development,Senior,5617.0,6,4.0,4,Yes,3.9,24,1,No
+34,Research & Development,Entry,3552.0,4,4.0,4,No,20.0,50,3,No
+35,Sales,Entry,3397.0,0,4.0,4,Yes,21.0,48,0,No
+48,Research & Development,Entry,4152.0,1,3.0,1,No,7.7,16,1,No
+39,Sales,Entry,3429.0,5,2.0,4,No,1.0,28,5,No
+50,Sales,Entry,4049.0,5,1.0,4,Yes,6.6,30,2,No
+38,Research & Development,Mid,4734.0,2,1.0,4,No,16.4,48,4,No
+34,Human Resources,Senior,5359.0,5,4.0,2,No,11.5,34,3,No
+29,Research & Development,Mid,3264.0,6,2.0,2,No,13.4,39,2,No
+43,Sales,Mid,4455.0,3,1.0,4,No,7.8,18,1,Yes
+57,Research & Development,Entry,4388.0,2,1.0,1,No,20.1,75,3,No
+55,Sales,Mid,6541.0,7,1.0,3,No,14.7,41,4,No
+31,Research & Development,Mid,3916.0,8,3.0,4,Yes,16.7,47,1,No
+40,Research & Development,Senior,5369.0,5,3.0,4,No,13.3,32,2,No
+49,Sales,Senior,7221.0,4,2.0,3,No,16.2,30,3,No
+45,Sales,Entry,3791.0,4,3.0,4,No,15.7,69,2,No
+24,Sales,Entry,1800.0,2,2.0,4,No,4.6,11,1,No
+45,Human Resources,Entry,4819.0,1,4.0,4,Yes,15.0,44,3,No
+23,Research & Development,Mid,2836.0,7,4.0,1,No,,22,2,No
+26,Research & Development,Senior,4474.0,5,1.0,1,Yes,21.2,34,4,No
+47,Research & Development,Entry,4352.0,2,2.0,2,Yes,15.3,30,4,No
+25,Research & Development,Mid,4098.0,6,4.0,2,No,4.3,25,2,No
+35,Sales,Mid,4218.0,7,3.0,2,No,5.5,41,2,No
+44,Human Resources,Entry,3291.0,5,4.0,1,Yes,8.5,5,3,No
+47,Research & Development,Entry,4679.0,6,2.0,3,No,13.5,35,3,No
+39,Research & Development,Mid,4230.0,4,1.0,1,No,11.0,39,2,No
+25,Research & Development,Mid,4582.0,4,4.0,4,Yes,3.0,20,1,No
+53,Research & Development,Mid,5734.0,3,4.0,3,No,3.0,63,2,No
+59,Human Resources,Entry,3892.0,5,3.0,4,No,1.0,31,3,No
+56,Sales,Mid,6222.0,5,2.0,1,No,1.0,36,4,No
+51,Research & Development,Entry,5929.0,3,1.0,2,Yes,10.9,31,1,No
+37,Research & Development,Senior,6699.0,4,3.0,4,No,30.6,39,4,No
+56,Research & Development,Entry,6280.0,6,3.0,2,No,26.4,60,3,Yes
+41,Sales,Entry,3152.0,4,3.0,3,Yes,4.2,77,4,No
+27,Sales,Mid,4118.0,1,1.0,1,Yes,13.2,51,2,No
+55,Sales,Mid,5436.0,6,3.0,4,No,1.0,56,2,No
+34,Research & Development,Mid,4266.0,6,3.0,2,Yes,1.5,66,8,No
+58,Research & Development,Mid,5333.0,3,4.0,4,No,2.4,44,2,No
+36,Research & Development,Senior,5171.0,2,3.0,2,No,10.2,64,3,No
+55,Research & Development,Mid,5465.0,4,3.0,1,No,10.5,52,4,No
+42,Research & Development,Mid,5384.0,4,2.0,3,No,14.0,42,3,No
+40,Research & Development,Mid,5150.0,3,3.0,2,No,17.3,45,1,No
+33,Sales,Entry,3315.0,4,3.0,2,No,9.3,13,5,No
+54,Research & Development,Mid,4942.0,4,4.0,4,No,12.3,44,4,No
+24,Research & Development,Entry,2167.0,2,4.0,2,No,3.2,17,0,No
+40,Sales,Mid,4145.0,6,1.0,2,No,1.2,16,3,No
+36,Research & Development,Entry,3955.0,3,4.0,3,No,1.0,43,0,No
+43,Research & Development,Senior,6951.0,6,4.0,1,No,17.2,23,2,No
+31,Sales,Mid,4552.0,0,3.0,4,Yes,9.3,40,1,No
+47,Research & Development,Senior,6034.0,4,3.0,1,No,1.0,42,1,No
+37,Research & Development,Mid,2594.0,4,3.0,1,No,11.5,43,3,No
+29,Research & Development,Entry,1800.0,3,2.0,1,No,2.0,26,1,No
+29,Research & Development,Senior,5919.0,6,2.0,2,Yes,25.3,53,8,No
+49,Research & Development,Mid,5134.0,2,4.0,3,No,7.4,39,2,No
+32,Research & Development,Mid,3462.0,2,4.0,3,No,17.5,47,1,No
+33,Research & Development,Mid,5103.0,4,1.0,4,No,20.7,22,3,No
+46,Research & Development,Mid,5962.0,3,4.0,4,No,4.4,37,2,No
+34,Research & Development,Senior,5436.0,2,2.0,2,Yes,12.6,56,4,No
+37,Research & Development,Mid,4184.0,3,1.0,4,Yes,16.4,55,2,No
+31,Research & Development,Entry,2879.0,5,4.0,1,No,12.9,28,3,No
+35,Research & Development,Mid,4353.0,4,1.0,1,Yes,14.9,32,3,No
+49,Research & Development,Mid,6435.0,4,1.0,2,No,1.4,25,5,No
+42,Research & Development,Senior,6375.0,5,2.0,3,No,16.4,30,1,Yes
+60,Human Resources,Entry,5902.0,4,2.0,1,Yes,8.1,19,4,Yes
+52,Research & Development,Mid,6410.0,9,1.0,4,No,14.8,38,0,No
+22,Research & Development,Mid,2340.0,2,1.0,2,No,19.4,49,2,No
+36,Research & Development,Mid,4781.0,7,2.0,2,No,17.4,28,0,No
+33,Research & Development,Mid,3844.0,2,1.0,3,Yes,14.8,39,1,No
+44,Research & Development,Mid,3335.0,6,1.0,2,Yes,17.1,37,2,No
+32,Research & Development,Entry,1800.0,4,4.0,2,No,17.5,56,6,Yes
+59,Sales,Mid,5583.0,4,3.0,4,Yes,24.0,31,2,No
+33,Sales,Entry,3480.0,2,1.0,2,No,11.7,31,1,Yes
+42,Research & Development,Entry,3974.0,4,1.0,1,No,13.3,27,2,Yes
+26,Sales,Mid,3560.0,0,4.0,3,Yes,19.5,23,1,Yes
+57,Sales,Mid,7343.0,5,2.0,3,No,8.1,48,1,No
+57,Research & Development,Senior,6550.0,5,1.0,1,Yes,1.3,38,2,No
+52,Sales,Entry,4732.0,1,3.0,4,No,15.9,41,0,No
+35,Research & Development,Entry,3503.0,5,4.0,2,No,10.4,59,1,No
+24,Research & Development,Senior,4091.0,3,2.0,1,No,2.3,60,4,No
+49,Sales,Entry,4513.0,3,3.0,1,Yes,16.0,15,2,Yes
+38,Research & Development,Entry,2520.0,2,2.0,3,Yes,23.4,50,2,Yes
+60,Research & Development,Entry,6346.0,4,1.0,1,No,1.0,43,4,No
+49,Research & Development,Mid,4952.0,2,4.0,2,Yes,20.2,33,2,Yes
+43,Sales,Senior,7505.0,2,4.0,3,No,1.0,45,4,No
+60,Research & Development,Mid,6309.0,3,4.0,4,No,8.8,14,1,No
+53,Sales,Mid,6403.0,2,1.0,2,No,26.7,62,1,No
+39,Research & Development,Entry,3610.0,4,3.0,4,No,9.4,48,2,Yes
+22,Human Resources,Entry,2180.0,3,3.0,2,No,12.7,27,1,No
+25,Human Resources,Mid,2975.0,7,1.0,4,Yes,18.1,31,3,No
+39,Research & Development,Entry,3722.0,3,4.0,2,No,1.0,14,3,No
+43,Research & Development,Entry,4192.0,5,1.0,1,No,12.6,35,5,Yes
+23,Research & Development,Entry,1800.0,1,2.0,3,No,12.5,33,3,No
+26,Research & Development,Entry,2459.0,2,4.0,4,No,26.9,20,1,No
+49,Research & Development,Mid,4998.0,2,3.0,4,No,2.1,52,4,No
+51,Research & Development,Mid,7060.0,1,3.0,4,No,8.9,59,3,No
+23,Sales,Entry,2227.0,2,2.0,1,Yes,4.6,40,1,No
+41,Sales,Mid,5719.0,4,4.0,3,No,3.7,35,6,No
+25,Research & Development,Mid,3228.0,3,1.0,3,No,21.0,47,3,No
+50,Sales,Mid,5649.0,2,3.0,3,No,12.2,40,3,No
+54,Sales,Mid,4961.0,9,1.0,1,No,7.6,24,3,No
+55,Research & Development,Mid,5614.0,2,1.0,1,No,7.9,30,1,No
+45,Human Resources,Senior,6492.0,2,3.0,3,No,7.5,36,3,No
+46,Research & Development,Entry,5271.0,8,2.0,4,No,8.2,44,0,No
+58,Research & Development,Entry,5404.0,5,1.0,1,No,1.9,40,3,No
+45,Human Resources,Entry,5054.0,5,4.0,1,No,9.9,43,2,No
+39,Sales,Mid,4961.0,2,2.0,2,Yes,9.1,17,3,No
+51,Research & Development,Entry,5723.0,4,4.0,2,Yes,5.9,50,5,No
+45,Research & Development,Entry,4117.0,4,1.0,4,No,13.2,40,3,Yes
+54,Sales,Mid,7374.0,2,1.0,4,No,13.9,78,4,No
+42,Research & Development,Entry,3584.0,5,2.0,3,No,7.5,34,2,No
+55,Research & Development,Entry,4507.0,2,3.0,4,Yes,10.8,45,2,No
+23,Research & Development,Entry,1800.0,3,2.0,1,Yes,29.3,82,0,No
+23,Sales,Mid,4700.0,3,1.0,4,No,29.0,43,1,No
+25,Sales,Entry,2988.0,3,3.0,2,No,3.6,39,4,No
+43,Human Resources,Entry,3768.0,4,4.0,2,No,4.7,25,2,No
+49,Sales,Entry,5307.0,3,1.0,1,No,3.5,63,3,Yes
+30,Sales,Mid,4227.0,5,2.0,1,No,20.5,23,2,No
+28,Sales,Senior,6188.0,3,2.0,1,No,8.8,46,3,No
+55,Research & Development,Mid,4899.0,5,3.0,2,Yes,13.9,33,1,No
+51,Research & Development,Mid,5393.0,2,1.0,1,No,28.0,37,3,No
+47,Research & Development,Senior,6224.0,5,1.0,1,No,11.9,19,0,No
+41,Sales,Senior,4732.0,5,1.0,3,No,17.6,60,0,No
+38,Sales,Mid,5149.0,2,3.0,4,No,16.2,36,2,No
+22,Research & Development,Senior,4224.0,2,1.0,1,Yes,7.3,22,3,Yes
+29,Research & Development,Senior,5476.0,4,3.0,3,Yes,20.5,59,2,No
+56,Research & Development,Mid,7524.0,1,2.0,4,No,5.2,32,1,No
+35,Research & Development,Mid,3975.0,3,2.0,2,No,22.7,45,2,No
+49,Research & Development,Entry,4221.0,2,4.0,1,No,7.3,53,3,No
+49,Sales,Entry,4572.0,4,4.0,1,No,8.2,47,1,No
+34,Research & Development,Mid,4762.0,3,4.0,4,Yes,3.3,7,0,No
+29,Research & Development,Mid,3327.0,8,4.0,2,No,4.6,50,5,No
+48,Research & Development,Mid,4900.0,6,1.0,1,No,8.6,38,6,No
+25,Research & Development,Mid,,3,4.0,4,Yes,1.0,35,1,No
+41,Research & Development,Mid,4961.0,7,1.0,4,No,10.1,38,2,No
+56,Research & Development,Senior,5961.0,6,2.0,3,No,7.9,16,3,No
+49,Research & Development,Entry,3698.0,4,3.0,1,No,18.3,43,1,No
+51,Research & Development,Entry,5641.0,6,3.0,1,Yes,15.4,20,1,No
+25,Human Resources,Mid,3616.0,5,3.0,1,Yes,6.3,36,4,No
+29,Research & Development,Senior,4500.0,9,3.0,1,No,8.3,42,1,No
+32,Research & Development,Senior,5139.0,7,2.0,3,No,10.1,56,1,No
+33,Research & Development,Senior,5344.0,6,3.0,2,No,23.9,28,4,No
+29,Research & Development,Senior,5473.0,4,2.0,4,No,5.4,62,2,No
+59,Research & Development,Entry,4462.0,5,2.0,1,No,6.2,54,3,No
+28,Sales,Mid,3063.0,3,3.0,3,Yes,3.0,34,2,Yes
+49,Research & Development,Entry,4672.0,7,3.0,4,No,1.0,23,1,No
+44,Human Resources,Mid,4905.0,3,2.0,1,No,14.5,18,4,No
+45,Research & Development,Senior,6727.0,3,1.0,3,Yes,13.6,44,3,No
+30,Sales,Entry,2081.0,5,2.0,3,Yes,22.3,29,2,No
+33,Research & Development,Mid,4267.0,1,2.0,1,No,20.3,58,2,No
+45,Sales,Entry,4865.0,4,1.0,2,No,31.2,30,1,No
+33,Sales,Entry,3451.0,2,1.0,4,No,11.4,26,0,No
+49,Human Resources,Entry,4585.0,5,4.0,4,Yes,9.9,44,0,No
+23,Research & Development,Entry,2223.0,5,2.0,2,No,1.6,30,0,No
+24,Research & Development,Senior,4027.0,2,3.0,1,Yes,17.6,40,2,Yes
+50,Research & Development,Mid,5433.0,3,1.0,1,Yes,12.9,55,2,No
+46,Sales,Senior,7259.0,3,4.0,4,No,17.2,42,2,No
+23,Sales,Mid,3108.0,5,1.0,3,No,2.9,42,1,No
+57,Research & Development,Entry,,5,2.0,2,No,14.8,43,3,Yes
+22,Research & Development,Entry,1880.0,5,4.0,1,No,13.6,15,2,Yes
+59,Human Resources,Mid,6376.0,6,1.0,4,No,13.1,46,2,No
+50,Research & Development,Entry,4337.0,5,3.0,2,No,6.5,42,1,No
+60,Research & Development,Senior,7945.0,8,4.0,3,No,21.5,53,1,No
+59,Research & Development,Entry,5685.0,1,1.0,4,No,28.4,49,2,No
+34,Human Resources,Mid,4698.0,5,1.0,3,No,3.1,37,6,No
+51,Research & Development,Mid,6490.0,6,4.0,4,No,17.8,55,2,Yes
+30,Human Resources,Entry,3527.0,6,2.0,3,No,1.0,36,1,No
+40,Research & Development,Entry,3123.0,5,4.0,2,No,17.3,44,3,Yes
+31,Research & Development,Senior,4578.0,3,4.0,4,No,1.0,35,3,No
+40,Sales,Entry,3681.0,3,4.0,3,No,7.8,47,0,No
+56,Research & Development,Mid,5697.0,3,4.0,4,Yes,1.5,34,3,No
+39,Research & Development,Mid,3805.0,4,4.0,1,No,10.3,65,0,No
+25,Research & Development,Entry,2168.0,3,2.0,3,No,18.7,70,2,No
+34,Research & Development,Mid,3812.0,4,4.0,3,No,1.0,53,3,No
+52,Human Resources,Mid,5213.0,2,2.0,1,No,9.1,63,0,No
+42,Human Resources,Entry,3695.0,3,3.0,2,No,7.9,17,2,No
+43,Sales,Senior,6951.0,2,1.0,4,Yes,24.6,19,5,No
+38,Research & Development,Entry,3690.0,6,4.0,3,Yes,15.5,35,3,Yes
+33,Research & Development,Entry,4742.0,2,3.0,4,Yes,2.6,41,0,Yes
+45,Research & Development,Mid,5166.0,5,4.0,1,Yes,8.2,37,0,Yes
+46,Sales,Senior,6251.0,3,2.0,1,Yes,24.4,15,1,No
+57,Sales,Entry,5178.0,4,2.0,4,No,17.7,57,4,No
+46,Research & Development,Entry,4407.0,8,3.0,2,Yes,4.7,72,4,No
+60,Research & Development,Mid,6613.0,9,4.0,4,No,9.9,59,1,No
+54,Human Resources,Mid,7170.0,3,3.0,4,Yes,10.1,56,0,No
+25,Research & Development,Entry,1906.0,0,4.0,2,No,7.7,43,2,Yes
+37,Human Resources,Entry,,8,1.0,4,No,1.0,27,3,No
+37,Research & Development,Mid,4510.0,2,4.0,4,Yes,6.6,41,1,No
+22,Research & Development,Entry,1800.0,1,3.0,1,No,23.1,72,3,No
+29,Sales,Entry,3296.0,2,4.0,1,No,9.0,35,1,No
+51,Research & Development,Entry,5489.0,3,1.0,1,No,11.2,33,1,No
+35,Research & Development,Mid,3648.0,1,2.0,3,Yes,13.1,57,3,Yes
+27,Human Resources,Mid,3519.0,3,1.0,1,No,29.7,58,3,No
+33,Research & Development,Senior,4214.0,4,2.0,2,No,12.1,27,2,No
+32,Sales,Mid,3132.0,3,4.0,2,No,20.8,36,1,No
+28,Research & Development,Mid,4291.0,1,3.0,1,Yes,7.2,32,3,No
+25,Sales,Senior,4352.0,6,4.0,2,Yes,9.9,41,2,No
+51,Sales,Mid,4844.0,4,3.0,3,No,12.1,57,1,No
+54,Research & Development,Mid,,3,4.0,4,No,5.8,28,1,No
+41,Research & Development,Senior,5675.0,4,4.0,2,Yes,10.4,56,2,No
+46,Research & Development,Entry,3934.0,1,3.0,3,No,19.1,42,1,No
+57,Research & Development,Mid,6556.0,7,4.0,3,No,5.6,75,3,No
+54,Research & Development,Mid,5065.0,6,1.0,2,Yes,12.0,45,0,No
+23,Research & Development,Entry,1800.0,5,3.0,3,Yes,17.7,39,4,Yes
+59,Sales,Mid,6345.0,5,3.0,4,No,5.4,49,2,No
+24,Sales,Entry,3000.0,3,4.0,1,No,20.8,35,2,No
+23,Research & Development,Entry,3090.0,6,3.0,3,No,12.6,13,4,No
+37,Research & Development,Mid,3943.0,5,1.0,1,No,10.7,36,3,Yes
+51,Sales,Entry,5274.0,5,3.0,4,Yes,1.0,36,1,No
+25,Research & Development,Mid,2845.0,5,4.0,3,No,9.0,16,5,No
+33,Research & Development,Senior,6522.0,4,1.0,1,No,15.0,39,0,No
+32,Sales,Mid,3213.0,3,1.0,3,No,26.0,9,6,No
+37,Research & Development,Entry,4339.0,8,3.0,2,No,16.5,35,2,No
+60,Research & Development,Entry,5003.0,3,3.0,1,No,21.0,44,0,No
+34,Research & Development,Entry,4529.0,1,3.0,4,No,2.3,41,2,No
+30,Sales,Entry,3264.0,6,1.0,2,No,11.0,34,3,No
+26,Research & Development,Senior,4080.0,1,3.0,1,Yes,21.8,39,3,No
+29,Research & Development,Mid,3356.0,5,3.0,3,No,4.9,28,1,No
+27,Research & Development,Entry,3133.0,0,4.0,2,No,19.7,40,3,No
+44,Sales,Senior,6954.0,1,2.0,3,No,17.9,41,6,No
+38,Research & Development,Entry,3514.0,4,2.0,1,Yes,14.2,26,1,No
+41,Research & Development,Entry,3844.0,4,1.0,4,No,9.4,44,2,No
+54,Sales,Entry,5413.0,4,3.0,2,No,4.1,44,0,No
+44,Research & Development,Mid,5056.0,8,3.0,2,No,26.2,38,0,No
+28,Sales,Mid,2769.0,6,2.0,4,No,17.1,76,1,No
+36,Sales,Entry,2862.0,5,3.0,3,Yes,14.7,38,4,No
+34,Research & Development,Senior,5573.0,3,4.0,1,No,8.7,36,1,No
+54,Research & Development,Senior,7910.0,7,1.0,3,No,12.3,34,4,No
+33,Research & Development,Senior,6385.0,4,3.0,3,No,13.3,25,3,No
+27,Human Resources,Entry,3132.0,6,3.0,2,Yes,15.2,50,3,Yes
+50,Sales,Entry,4767.0,4,1.0,1,Yes,17.9,30,1,No
+38,Research & Development,Senior,6247.0,2,1.0,1,No,5.7,31,1,No
+25,Sales,Entry,2022.0,3,2.0,4,Yes,1.0,32,1,Yes
+48,Research & Development,Mid,5210.0,4,1.0,1,No,12.7,25,0,No
+30,Human Resources,Mid,3244.0,2,2.0,3,Yes,1.0,14,2,No
+55,Research & Development,Entry,4193.0,7,1.0,4,No,9.4,33,3,No
+54,Research & Development,Mid,6037.0,1,4.0,2,No,7.9,53,2,No
+36,Research & Development,Senior,5711.0,8,3.0,1,No,15.9,43,5,Yes
+43,Human Resources,Mid,5332.0,3,2.0,3,Yes,27.9,63,1,Yes
+44,Research & Development,Mid,5325.0,4,4.0,3,Yes,1.0,51,2,No
+47,Sales,Senior,6683.0,3,1.0,1,Yes,30.2,48,6,No
+24,Research & Development,Mid,3632.0,3,3.0,3,Yes,10.1,68,3,Yes
+34,Sales,Mid,4092.0,4,3.0,1,No,14.8,39,1,No
+28,Sales,Senior,5178.0,6,4.0,2,No,1.0,41,2,No
+49,Sales,Mid,4923.0,1,1.0,2,Yes,20.0,40,2,Yes
+24,Research & Development,Entry,2610.0,3,3.0,4,Yes,12.3,63,1,No
+42,Research & Development,Entry,4334.0,7,4.0,4,No,11.5,40,4,No
+50,Research & Development,Entry,4145.0,3,4.0,3,Yes,1.0,30,4,Yes
+58,Research & Development,Mid,6194.0,2,1.0,3,No,12.6,49,0,No
+33,Human Resources,Mid,3630.0,1,4.0,1,No,18.8,28,2,Yes
+22,Research & Development,Mid,2758.0,6,2.0,1,Yes,10.1,48,3,No
+50,Research & Development,Entry,3849.0,11,2.0,4,No,21.4,46,5,Yes
+22,Sales,Mid,3923.0,6,1.0,2,Yes,21.1,37,4,No
+24,Research & Development,Senior,5263.0,2,1.0,3,No,6.9,48,1,No
+60,Sales,Entry,5779.0,7,2.0,3,No,24.8,18,2,Yes
+55,Research & Development,Mid,7187.0,4,1.0,2,No,12.4,42,0,No
+49,Human Resources,Mid,5272.0,7,3.0,3,No,12.4,33,2,No
+54,Research & Development,Mid,7791.0,7,3.0,3,No,12.8,83,2,Yes
+24,Research & Development,Entry,2222.0,5,2.0,1,No,12.6,42,2,No
+25,Research & Development,Mid,3521.0,3,3.0,3,No,1.0,31,1,No
+33,Research & Development,Senior,5076.0,5,3.0,1,No,10.5,19,1,No
+22,Sales,Mid,3342.0,3,1.0,2,No,1.1,60,1,No
+56,Sales,Senior,7833.0,7,2.0,4,No,25.0,35,1,No
+24,Research & Development,Senior,4496.0,3,4.0,4,Yes,24.7,28,2,No
+43,Sales,Entry,5140.0,0,1.0,1,Yes,18.8,45,2,No
+55,Research & Development,Mid,6060.0,1,4.0,3,No,10.1,50,5,No
+50,Sales,Mid,5656.0,8,4.0,3,Yes,3.9,50,2,Yes
+31,Research & Development,Senior,4574.0,7,2.0,3,No,6.7,40,3,No
+40,Research & Development,Entry,4002.0,0,2.0,4,Yes,27.5,42,2,Yes
+43,Research & Development,Mid,4798.0,3,1.0,1,No,6.5,43,1,No
+51,Research & Development,Senior,6470.0,4,3.0,3,No,1.0,45,4,No
+38,Research & Development,Entry,3055.0,1,1.0,2,No,20.2,46,1,No
+33,Human Resources,Mid,5772.0,4,4.0,1,No,24.0,56,1,No
+53,Research & Development,Entry,4664.0,5,2.0,2,Yes,25.3,41,1,Yes
+56,Research & Development,Senior,6343.0,2,4.0,1,Yes,20.3,28,2,No
+41,Human Resources,Senior,5561.0,2,4.0,3,No,21.6,38,2,No
+23,Research & Development,Entry,2251.0,5,2.0,3,No,12.4,51,1,No
+41,Sales,Mid,5070.0,5,3.0,3,No,1.0,13,2,No
+56,Research & Development,Entry,5451.0,4,1.0,1,No,12.2,13,2,No
+60,Sales,Mid,6770.0,3,1.0,4,No,17.0,54,2,No
+37,Research & Development,Mid,3956.0,3,3.0,1,No,10.9,63,2,No
+27,Human Resources,Senior,5046.0,1,2.0,2,No,10.6,21,3,No
+44,Research & Development,Entry,3501.0,7,2.0,2,No,4.3,42,1,Yes
+54,Research & Development,Entry,,4,1.0,3,Yes,4.0,34,3,No
+58,Sales,Mid,5563.0,6,4.0,2,Yes,26.7,36,3,No
+24,Human Resources,Mid,2498.0,4,2.0,4,No,27.0,45,4,No
+33,Sales,Mid,4727.0,6,,4,No,12.0,21,3,No
+40,Sales,Entry,4178.0,3,2.0,4,No,14.3,23,1,No
+25,Sales,Entry,3090.0,3,2.0,1,No,4.2,35,5,No
+56,Sales,Senior,7316.0,1,3.0,4,Yes,17.1,38,2,No
+26,Research & Development,Entry,3045.0,3,4.0,1,No,26.1,23,1,Yes
+47,Research & Development,Entry,3180.0,8,3.0,4,Yes,1.0,52,2,No
+57,Research & Development,Senior,7936.0,2,1.0,4,No,15.7,34,1,No
+48,Sales,Entry,4525.0,7,4.0,1,Yes,16.3,34,1,No
+51,Sales,Mid,5973.0,3,2.0,1,No,16.2,44,2,No
+32,Research & Development,Entry,3297.0,3,1.0,3,No,25.1,38,1,No
+54,Sales,Senior,6478.0,5,1.0,1,No,28.3,53,3,No
+38,Research & Development,Mid,3486.0,9,4.0,4,Yes,10.1,26,4,No
+24,Sales,Senior,4107.0,5,2.0,3,Yes,17.4,19,4,No
+36,Research & Development,Entry,3757.0,7,1.0,3,No,12.7,35,5,No
+35,Research & Development,Mid,4654.0,1,4.0,4,No,6.9,41,1,No
+42,Research & Development,Mid,3911.0,5,2.0,1,No,14.2,21,2,No
+32,Sales,Entry,2412.0,4,4.0,3,Yes,17.4,19,2,No
+40,Sales,Entry,3260.0,3,4.0,4,No,13.7,43,3,No
+38,Research & Development,Entry,3328.0,3,1.0,1,Yes,5.0,29,1,No
+34,Sales,Senior,4535.0,7,3.0,1,No,8.3,18,3,No
+49,Research & Development,Mid,4471.0,5,3.0,1,No,8.4,54,0,No
+33,Research & Development,Mid,3501.0,4,1.0,2,No,5.3,31,4,No
+51,Research & Development,Mid,5621.0,5,2.0,1,No,14.5,57,0,No
+31,Research & Development,Mid,3098.0,4,2.0,1,No,15.3,40,3,No
+55,Research & Development,Mid,5830.0,2,1.0,4,No,19.8,44,2,No
+36,Research & Development,Mid,4978.0,3,3.0,2,No,5.1,37,3,No
+23,Sales,Mid,2339.0,1,2.0,2,No,7.4,5,3,No
+27,Research & Development,Entry,2491.0,3,4.0,2,No,24.4,23,2,No
+53,Sales,Senior,7701.0,4,4.0,4,No,10.7,38,0,No
+56,Research & Development,Mid,5718.0,7,3.0,2,No,12.2,45,0,No
+30,Research & Development,Entry,2507.0,8,1.0,2,No,10.6,13,2,No
+45,Sales,Mid,5811.0,2,1.0,4,No,21.1,39,0,No
+44,Research & Development,Entry,3871.0,5,1.0,1,Yes,21.4,23,1,Yes
+27,Human Resources,Senior,5543.0,1,2.0,2,Yes,20.9,44,1,No
+39,Sales,Senior,6124.0,1,4.0,3,No,12.2,40,1,No
+49,Research & Development,Senior,6472.0,5,1.0,3,No,5.0,51,3,No
+59,Research & Development,Entry,5657.0,6,3.0,4,No,27.4,56,2,Yes
+55,Sales,Entry,5213.0,2,1.0,4,No,18.9,47,1,Yes
+25,Sales,Entry,3119.0,4,2.0,2,No,8.3,53,2,No
+31,Sales,Entry,2609.0,3,3.0,4,Yes,23.4,35,1,No
+39,Human Resources,Entry,3672.0,5,4.0,1,No,7.7,82,0,No
+27,Sales,Entry,2585.0,7,4.0,1,No,23.3,22,1,No
+44,Sales,Senior,6728.0,2,3.0,4,No,23.8,32,2,No
+22,Sales,Entry,1800.0,3,1.0,1,No,4.6,54,5,No
+26,Sales,Entry,3201.0,5,2.0,2,Yes,16.7,51,1,Yes
+23,Research & Development,Senior,4788.0,1,4.0,3,Yes,18.3,47,1,No
+33,Sales,Mid,3179.0,1,1.0,2,No,32.9,50,1,No
+51,Research & Development,Mid,6350.0,6,3.0,4,No,6.1,9,0,No
+28,Research & Development,Mid,5062.0,4,3.0,2,Yes,23.5,64,5,No
+60,Research & Development,Senior,8281.0,6,4.0,3,No,12.1,37,2,No
+32,Sales,Mid,4878.0,2,1.0,1,No,2.1,59,3,No
+23,Research & Development,Mid,3240.0,4,1.0,1,No,11.0,9,0,Yes
+35,Research & Development,Mid,3125.0,1,1.0,1,No,12.0,44,0,No
+51,Sales,Mid,4366.0,5,2.0,3,No,3.5,32,3,Yes
+26,Research & Development,Entry,2706.0,6,3.0,1,Yes,14.5,49,1,No
+24,Research & Development,Mid,2885.0,1,1.0,3,Yes,19.7,45,2,No
+55,Sales,Entry,4411.0,8,3.0,2,No,13.9,45,2,No
+45,Human Resources,Mid,5014.0,3,1.0,3,No,7.7,24,2,No
+35,Research & Development,Entry,3705.0,3,3.0,4,No,10.8,39,0,Yes
+51,Research & Development,Entry,3721.0,3,2.0,4,Yes,12.0,37,2,No
+54,Human Resources,Entry,4628.0,1,4.0,1,No,13.7,47,4,No
+36,Research & Development,Senior,6571.0,1,2.0,4,No,20.9,55,1,No
+43,Research & Development,Entry,3286.0,5,,4,No,14.2,42,3,No
+22,Research & Development,Mid,3665.0,5,1.0,3,No,1.0,21,1,No
+33,Research & Development,Senior,5020.0,1,1.0,1,Yes,7.5,42,2,No
+45,Research & Development,Entry,4510.0,6,1.0,3,No,13.3,79,1,No
+29,Sales,Mid,4408.0,6,2.0,3,No,21.0,65,1,No
+60,Research & Development,Entry,5912.0,2,4.0,3,No,22.4,5,2,No
+59,Research & Development,Entry,5936.0,4,1.0,2,No,26.2,41,2,No
+32,Sales,Mid,3201.0,6,4.0,3,No,13.0,54,2,No
+37,Sales,Senior,6399.0,2,3.0,3,Yes,18.1,37,3,No
+29,Research & Development,Entry,2241.0,5,2.0,2,No,1.0,33,2,No
+41,Sales,Mid,4884.0,3,2.0,4,No,15.4,36,2,No
+26,Sales,Entry,2708.0,3,4.0,3,No,3.4,48,2,Yes
+37,Research & Development,Mid,4690.0,6,3.0,2,No,11.5,23,1,No
+43,Research & Development,Mid,5104.0,3,1.0,3,No,36.2,58,0,No
+45,Research & Development,Mid,4507.0,2,4.0,4,No,14.4,39,4,No
+45,Research & Development,Mid,4178.0,3,2.0,2,Yes,5.1,26,6,No
+30,Research & Development,Entry,3447.0,4,1.0,3,No,15.3,57,4,No
+52,Research & Development,Mid,5771.0,5,4.0,1,Yes,7.9,17,0,No
+48,Sales,Mid,6057.0,6,4.0,2,Yes,4.3,32,6,No
+51,Sales,Mid,5536.0,1,,3,No,28.8,31,3,No
+40,Research & Development,Entry,2817.0,6,3.0,4,No,20.5,72,1,No
+56,Sales,Mid,6618.0,2,1.0,3,No,14.8,30,3,No
+37,Research & Development,Mid,4134.0,4,4.0,3,No,8.9,8,2,No
+53,Human Resources,Entry,5057.0,7,2.0,2,No,9.5,31,0,No
+29,Sales,Entry,2374.0,6,2.0,3,No,24.3,47,2,Yes
+31,Sales,Mid,4934.0,2,3.0,2,No,14.5,52,1,No
+42,Human Resources,Mid,4230.0,2,2.0,1,No,1.0,74,3,No
+43,Research & Development,Entry,3766.0,4,3.0,1,No,31.4,61,3,No
+51,Sales,Senior,6935.0,2,3.0,3,No,13.5,43,3,No
+33,Research & Development,Mid,3325.0,4,2.0,4,No,14.7,27,5,Yes
+56,Research & Development,Mid,6205.0,6,4.0,2,Yes,20.7,64,2,No
+34,Research & Development,Mid,5168.0,2,2.0,4,No,15.7,34,4,No
+42,Research & Development,Mid,4481.0,0,4.0,4,Yes,18.0,30,2,Yes
+58,Sales,Mid,6417.0,6,2.0,3,Yes,8.6,34,1,No
+43,Sales,Senior,4398.0,5,3.0,4,Yes,2.2,21,2,No
+48,Research & Development,Mid,5285.0,3,3.0,2,Yes,14.2,33,1,No
+57,Sales,Mid,5872.0,6,4.0,2,No,23.5,37,3,No
+60,Research & Development,Mid,5798.0,0,1.0,3,No,6.8,51,5,No
+41,Research & Development,Mid,5418.0,3,1.0,3,No,6.2,34,6,No
+38,Sales,Entry,3348.0,3,4.0,3,No,21.8,21,3,No
+29,Research & Development,Mid,3580.0,5,4.0,2,No,8.3,16,4,Yes
+42,Sales,Mid,4555.0,7,3.0,4,Yes,8.7,43,1,No
+57,Research & Development,Senior,6129.0,10,2.0,1,Yes,9.0,41,2,No
+40,Sales,Mid,3894.0,7,2.0,1,No,11.5,32,4,No
+35,Research & Development,Mid,,6,3.0,2,No,1.0,33,0,No
+26,Research & Development,Senior,3369.0,2,3.0,1,No,7.7,46,2,No
+37,Research & Development,Mid,3877.0,4,2.0,2,No,13.8,61,3,No
+31,Research & Development,Entry,2705.0,4,1.0,3,No,13.8,28,2,No
+60,Research & Development,Entry,6563.0,4,1.0,2,No,21.3,41,2,No
+42,Research & Development,Entry,4400.0,5,2.0,1,No,26.7,54,6,No
+27,Research & Development,Entry,2263.0,4,3.0,2,Yes,24.1,28,3,No
+24,Human Resources,Mid,4118.0,2,2.0,3,No,19.3,40,2,No
+55,Research & Development,Mid,5424.0,5,3.0,4,No,10.8,39,1,No
+58,Research & Development,Mid,6816.0,6,2.0,4,No,7.0,20,2,No
+51,Sales,Entry,3782.0,6,2.0,3,No,12.1,43,2,No
+26,Research & Development,Mid,4138.0,9,3.0,1,No,16.7,40,1,No
+25,Research & Development,Entry,2191.0,5,3.0,1,No,18.6,48,3,Yes
+29,Research & Development,Senior,4326.0,3,4.0,2,No,17.0,22,1,No
+51,Sales,Entry,4524.0,3,4.0,1,Yes,11.0,40,4,No
+51,Research & Development,Mid,5745.0,4,2.0,3,No,18.3,61,1,No
+54,Research & Development,Entry,4598.0,3,3.0,2,No,22.1,71,1,No
+25,Research & Development,Mid,3715.0,5,2.0,4,No,19.0,59,3,No
+27,Sales,Mid,3146.0,1,4.0,2,No,11.7,22,0,No
+57,Human Resources,Mid,6478.0,6,3.0,2,No,5.3,47,2,No
+58,Sales,Entry,5547.0,3,4.0,3,No,5.1,33,2,No
+50,Sales,Senior,6740.0,3,2.0,1,No,6.6,44,2,No
+26,Research & Development,Mid,3153.0,4,1.0,4,No,14.1,28,4,No
+24,Human Resources,Mid,3369.0,3,1.0,3,No,16.2,14,3,No
+24,Sales,Senior,4928.0,8,3.0,3,No,1.0,35,2,No
+48,Research & Development,Senior,7950.0,7,4.0,2,No,8.0,51,1,No
+54,Research & Development,Entry,5531.0,1,3.0,4,Yes,13.9,44,0,No
+46,Research & Development,Entry,4874.0,4,4.0,4,No,4.8,46,2,Yes
+32,Research & Development,Entry,5058.0,1,2.0,1,Yes,15.5,43,1,No
+51,Research & Development,Entry,5000.0,4,4.0,3,Yes,9.5,46,1,Yes
+24,Research & Development,Mid,3585.0,1,4.0,4,No,6.2,48,0,No
+54,Research & Development,Senior,7578.0,5,1.0,2,No,12.4,36,3,Yes
+56,Research & Development,Senior,6634.0,4,4.0,3,No,15.1,41,1,No
+50,Research & Development,Mid,5191.0,7,1.0,4,No,5.2,66,2,No
+56,Sales,Mid,5661.0,4,3.0,2,Yes,10.1,42,1,No
+44,Human Resources,Senior,6691.0,3,2.0,3,Yes,15.7,41,5,No
+40,Research & Development,Senior,5817.0,5,2.0,3,Yes,5.9,42,0,No
+34,Research & Development,Entry,3310.0,2,4.0,1,Yes,1.0,37,2,No
+57,Sales,Mid,6782.0,3,3.0,1,No,1.0,33,0,No
+49,Sales,Senior,7256.0,7,1.0,3,No,8.7,43,1,No
+29,Research & Development,Entry,2690.0,3,1.0,1,No,1.5,32,2,No
+59,Sales,Mid,5810.0,3,1.0,4,Yes,9.2,38,1,No
+24,Human Resources,Senior,5308.0,5,2.0,3,No,25.3,28,1,No
+44,Research & Development,Senior,6773.0,5,1.0,3,Yes,1.0,42,0,No
+29,Research & Development,Senior,3951.0,2,2.0,2,No,9.7,49,3,No
+47,Research & Development,Mid,5021.0,3,4.0,2,No,29.1,37,3,No
+38,Research & Development,Entry,3668.0,7,4.0,2,Yes,15.3,10,2,Yes
+39,Research & Development,Entry,4151.0,4,4.0,3,No,9.1,49,2,No
+48,Research & Development,Mid,5902.0,4,2.0,2,No,10.7,42,3,No
+51,Research & Development,Mid,5750.0,3,3.0,2,No,15.4,25,1,Yes
+36,Research & Development,Mid,4670.0,1,4.0,1,No,25.6,52,3,Yes
+60,Research & Development,Mid,6372.0,2,1.0,3,No,7.8,19,1,No
+41,Human Resources,Mid,4277.0,5,4.0,3,Yes,5.9,56,1,No
+28,Research & Development,Mid,3440.0,2,3.0,3,Yes,1.0,39,3,No
+22,Sales,Entry,2212.0,3,2.0,2,No,12.8,6,1,No
+29,Research & Development,Entry,2772.0,4,2.0,1,No,1.0,43,4,No
+48,Research & Development,Entry,3184.0,3,2.0,2,No,8.3,34,2,Yes
+43,Sales,Entry,3727.0,7,1.0,2,No,4.7,32,5,No
+35,Sales,Senior,5542.0,5,1.0,1,No,20.6,29,0,No
+40,Research & Development,Mid,4447.0,5,2.0,4,No,7.9,38,1,No
+54,Research & Development,Entry,4760.0,7,1.0,2,Yes,15.2,33,2,No
+44,Human Resources,Mid,5287.0,2,3.0,2,No,1.0,12,0,No
+24,Sales,Mid,2569.0,3,2.0,3,No,13.1,59,1,No
+23,Sales,Entry,1800.0,3,2.0,4,No,2.4,36,1,No
+40,Research & Development,Entry,3504.0,3,1.0,2,No,8.6,29,3,No
+37,Research & Development,Entry,3972.0,5,4.0,3,Yes,29.7,23,1,Yes
+55,Sales,Mid,,6,3.0,1,No,19.5,52,1,No
+44,Sales,Entry,4578.0,4,2.0,3,No,11.0,21,0,No
+51,Sales,Entry,3711.0,4,3.0,1,Yes,37.6,42,0,No
+44,Research & Development,Entry,3919.0,4,2.0,1,Yes,4.7,31,2,No
+35,Research & Development,Mid,4372.0,2,1.0,3,No,21.3,32,3,No
+47,Sales,Entry,4440.0,1,3.0,1,No,1.0,23,4,No
+46,Sales,Senior,6791.0,11,4.0,1,No,10.0,31,3,No
+50,Research & Development,Entry,3984.0,8,3.0,1,Yes,1.2,40,2,No
+29,Human Resources,Mid,3737.0,3,3.0,4,No,14.1,44,2,No
+47,Research & Development,Mid,5498.0,4,1.0,3,Yes,12.4,28,3,No
+33,Research & Development,Mid,4572.0,10,3.0,2,Yes,9.5,39,0,No
+52,Sales,Entry,4226.0,5,3.0,4,No,20.7,53,1,No
+53,Sales,Mid,5511.0,4,2.0,2,No,7.5,15,1,No
+46,Sales,Senior,4683.0,7,1.0,4,No,14.6,40,2,No
+58,Research & Development,Entry,4856.0,0,4.0,2,No,18.6,26,2,No
+42,Research & Development,Entry,3559.0,3,2.0,1,Yes,1.0,24,3,No
+22,Human Resources,Senior,3737.0,6,2.0,1,Yes,6.0,44,3,No
+45,Human Resources,Mid,5163.0,10,3.0,2,No,12.4,32,2,No
+52,Human Resources,Entry,4714.0,5,2.0,1,Yes,17.0,22,1,No
+25,Human Resources,Entry,1800.0,3,3.0,1,Yes,23.4,60,3,Yes
+26,Sales,Mid,3580.0,4,3.0,2,No,10.3,54,2,No
+32,Sales,Mid,3347.0,4,2.0,4,Yes,9.5,11,0,No
+54,Research & Development,Mid,6136.0,5,1.0,1,No,5.0,18,2,No
+42,Research & Development,Senior,5267.0,4,1.0,1,No,14.6,49,1,No
+60,Sales,Mid,6350.0,2,4.0,4,Yes,9.6,36,1,No
+56,Research & Development,Entry,4906.0,1,3.0,1,No,9.8,63,0,No
+43,Research & Development,Mid,5082.0,3,2.0,4,No,11.2,49,1,No
+48,Research & Development,Entry,4491.0,4,2.0,3,No,16.4,44,2,Yes
+34,Sales,Entry,3054.0,3,3.0,4,Yes,7.5,25,2,No
+25,Sales,Entry,1800.0,5,4.0,3,No,5.8,47,3,No
+37,Sales,Entry,2515.0,5,4.0,3,No,15.5,21,1,Yes
+45,Research & Development,Mid,4675.0,5,3.0,1,No,1.0,60,1,No
+29,Research & Development,Entry,2790.0,6,2.0,3,No,7.2,46,2,No
+30,Research & Development,Mid,3385.0,6,4.0,3,No,2.8,28,1,No
+22,Sales,Mid,3506.0,3,4.0,4,Yes,21.6,52,2,No
+50,Research & Development,Mid,5299.0,4,2.0,1,No,8.5,74,6,No
+57,Research & Development,Mid,5448.0,2,4.0,1,No,7.5,37,2,No
+54,Research & Development,Mid,5639.0,7,4.0,1,No,11.6,48,1,No
+36,Research & Development,Mid,4437.0,3,4.0,4,No,7.2,34,3,No
+45,Sales,Entry,4366.0,3,1.0,1,No,8.8,41,1,No
+59,Human Resources,Mid,7466.0,7,1.0,4,No,12.8,17,2,No
+45,Sales,Mid,4620.0,4,2.0,2,No,8.6,40,3,No
+33,Research & Development,Entry,3087.0,4,4.0,2,No,8.6,41,1,No
+35,Sales,Entry,3582.0,7,1.0,4,Yes,3.9,67,1,No
+50,Sales,Entry,4565.0,5,1.0,3,No,2.8,13,0,No
+39,Research & Development,Mid,4220.0,2,1.0,3,Yes,,36,1,Yes
+54,Sales,Mid,4813.0,4,1.0,4,Yes,14.5,59,2,No
+55,Research & Development,Entry,4673.0,7,4.0,4,Yes,1.0,36,4,Yes
+23,Research & Development,Senior,3787.0,1,3.0,3,No,18.1,37,1,No
+50,Sales,Senior,5658.0,6,3.0,2,No,18.1,28,1,No
+36,Research & Development,Entry,2873.0,4,2.0,4,No,19.8,26,2,Yes
+42,Research & Development,Senior,5419.0,5,3.0,3,Yes,14.4,13,1,No
+32,Research & Development,Entry,3429.0,5,4.0,4,No,17.1,31,2,No
+36,Research & Development,Senior,5981.0,5,3.0,4,No,29.5,25,3,No
+34,Research & Development,Senior,4832.0,1,4.0,3,No,9.6,42,2,No
+23,Sales,Entry,2116.0,2,3.0,2,Yes,3.6,28,0,No
+52,Sales,Mid,4442.0,4,2.0,4,No,1.0,33,1,No
+27,Sales,Senior,4504.0,5,3.0,4,No,26.0,33,1,Yes
+36,Human Resources,Senior,5849.0,8,4.0,1,No,26.2,39,3,No
+29,Research & Development,Senior,5531.0,4,4.0,3,No,4.6,32,0,Yes
+28,Research & Development,Mid,3147.0,6,2.0,3,Yes,6.2,24,5,No
+36,Research & Development,Entry,4074.0,2,3.0,3,No,9.4,41,1,No
+57,Research & Development,Senior,6390.0,6,4.0,4,Yes,21.8,56,3,Yes
+58,Research & Development,Mid,5349.0,0,3.0,2,No,1.7,42,4,Yes
+36,Research & Development,Mid,4751.0,4,3.0,4,No,1.0,31,3,Yes
+41,Research & Development,Mid,5801.0,4,2.0,3,Yes,29.3,38,3,Yes
+60,Sales,Mid,6651.0,4,4.0,1,No,14.5,9,3,No
+31,Sales,Entry,2939.0,3,4.0,3,Yes,15.6,38,2,Yes
+58,Human Resources,Mid,4733.0,5,1.0,1,Yes,10.4,34,2,No
+26,Research & Development,Entry,1800.0,1,1.0,4,No,15.7,26,1,No
+30,Human Resources,Mid,3864.0,4,1.0,4,No,1.0,29,1,No
+35,Sales,Senior,5272.0,6,2.0,4,No,5.3,34,0,No
+23,Research & Development,Mid,2466.0,4,1.0,3,No,12.8,55,1,No
+53,Sales,Mid,5778.0,4,4.0,2,Yes,1.0,56,3,No
+55,Sales,Entry,5080.0,4,4.0,2,No,9.6,26,3,No
+36,Sales,Senior,6204.0,1,1.0,4,No,9.1,32,1,No
+54,Sales,Mid,5909.0,7,4.0,1,Yes,9.6,33,1,No
+52,Human Resources,Entry,5548.0,4,1.0,4,No,7.6,52,0,No
+53,Research & Development,Entry,4840.0,5,4.0,2,No,4.0,42,0,No
+53,Research & Development,Entry,4760.0,3,2.0,3,Yes,1.0,41,1,No
+44,Research & Development,Mid,5662.0,6,1.0,3,No,13.2,48,4,No
+26,Research & Development,Senior,4104.0,3,,1,No,9.6,31,2,No
+58,Research & Development,Mid,7989.0,4,4.0,1,Yes,1.0,60,3,No
+45,Sales,Entry,4399.0,5,4.0,1,No,12.5,40,1,No
+57,Human Resources,Senior,7623.0,6,1.0,4,Yes,9.6,27,3,No
+59,Research & Development,Entry,5686.0,9,4.0,1,Yes,8.3,37,3,No
+29,Research & Development,Senior,6215.0,2,2.0,3,No,1.0,58,1,No
+37,Research & Development,Entry,3990.0,5,2.0,1,No,17.5,34,3,No
+29,Sales,Mid,2652.0,7,1.0,4,Yes,2.1,54,2,No
+23,Human Resources,Senior,5397.0,1,4.0,4,No,12.5,31,2,No
+59,Research & Development,Entry,5123.0,2,4.0,2,No,5.5,29,2,No
+58,Sales,Mid,6230.0,7,3.0,1,No,8.9,50,4,No
+58,Research & Development,Senior,6628.0,3,3.0,2,No,21.2,27,3,No
+56,Research & Development,Entry,5432.0,5,4.0,3,No,16.3,52,2,No
+47,Research & Development,Entry,3902.0,3,1.0,3,No,21.0,45,1,No
+42,Research & Development,Mid,4865.0,10,1.0,3,No,14.6,27,3,Yes
+60,Research & Development,Entry,5245.0,5,1.0,3,No,15.2,39,1,No
+43,Sales,Entry,5236.0,1,2.0,3,No,1.0,32,2,No
+47,Human Resources,Mid,6513.0,5,2.0,1,No,9.5,45,3,No
+30,Research & Development,Mid,3810.0,6,1.0,1,Yes,10.2,68,3,No
+51,Research & Development,Entry,4707.0,7,3.0,4,Yes,21.8,34,2,No
+53,Sales,Entry,4592.0,3,1.0,3,No,8.0,48,0,No
+48,Human Resources,Senior,7329.0,0,4.0,4,No,14.1,40,1,No
+41,Sales,Mid,4501.0,4,3.0,3,No,13.8,40,6,No
